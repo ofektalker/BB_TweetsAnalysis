@@ -1,6 +1,6 @@
 # BB_TweetsAnalysis
 ## About the project
-At this project we create emotion detection from Bibi Netanyahu twitter account.
+At this project we create emotion detection on Bibi Netanyahu twitter account.
 ## Pipeline:
 1. Scraping Bibi Netanyahu tweets
 2. Divide into pre-determined period of times
